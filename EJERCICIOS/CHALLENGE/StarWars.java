@@ -56,7 +56,7 @@ public class StarWars {
             }
         }
 
-        System.out.println("PRIMER ANALISIS DE TABLERO");
+        System.out.println("PRIMER ANALISIS DE TABLERO:");
         System.out.println("Vader encontrados: " + Vader);
         System.out.println("Yoda encontrados: " + Yoda);
         System.out.println("Muros encontrados: " + Muros);
@@ -104,7 +104,7 @@ public class StarWars {
             }
         }
 
-        System.out.println("SEGUNDO ANALISIS DE TABLERO");
+        System.out.println("SEGUNDO ANALISIS DE TABLERO:");
         System.out.println("Vader encontrados: " + Vader);
         System.out.println("Yoda encontrados: " + Yoda);
         System.out.println("Muros encontrados: " + Muros);
